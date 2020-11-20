@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68246" started-at="2020-11-20T08:20:50Z" finished-at="2020-11-20T08:21:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68246" started-at="2020-11-20T08:20:50Z" finished-at="2020-11-20T08:21:58Z">
+      <class name="test1._02CreatNewLeadTest">
+        <test-method status="PASS" signature="cofigBS()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigBS" is-config="true" duration-ms="9" started-at="2020-11-20T13:50:50Z" finished-at="2020-11-20T13:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBS -->
+        <test-method status="PASS" signature="cofigBT()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigBT" is-config="true" duration-ms="0" started-at="2020-11-20T13:50:50Z" finished-at="2020-11-20T13:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBT -->
+        <test-method status="PASS" signature="cofigBC()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigBC" is-config="true" duration-ms="23769" started-at="2020-11-20T13:50:50Z" finished-at="2020-11-20T13:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBC -->
+        <test-method status="PASS" signature="cofigBM()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigBM" is-config="true" duration-ms="15272" started-at="2020-11-20T13:51:14Z" finished-at="2020-11-20T13:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBM -->
+        <test-method status="PASS" signature="creatlead()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="creatlead" duration-ms="27254" started-at="2020-11-20T13:51:29Z" finished-at="2020-11-20T13:51:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatlead -->
+        <test-method status="PASS" signature="cofigAM()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigAM" is-config="true" duration-ms="1933" started-at="2020-11-20T13:51:56Z" finished-at="2020-11-20T13:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigAM -->
+        <test-method status="PASS" signature="cofigAC()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigAC" is-config="true" duration-ms="0" started-at="2020-11-20T13:51:58Z" finished-at="2020-11-20T13:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigAC -->
+        <test-method status="PASS" signature="cofigAT()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigAT" is-config="true" duration-ms="1" started-at="2020-11-20T13:51:58Z" finished-at="2020-11-20T13:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigAT -->
+        <test-method status="PASS" signature="cofigAS()[pri:0, instance:test1._02CreatNewLeadTest@1a25848]" name="cofigAS" is-config="true" duration-ms="0" started-at="2020-11-20T13:51:58Z" finished-at="2020-11-20T13:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigAS -->
+      </class> <!-- test1._02CreatNewLeadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
